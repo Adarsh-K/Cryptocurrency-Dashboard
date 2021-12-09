@@ -1,4 +1,4 @@
-# Cryptocurrency Dashboard
+# Cryptocurrency Dashboard | Check it out: https://crypto-point.netlify.app/
 
 Built a responsive dashboard with price charts, news, stats & info about different crytocurrencies & exchanges.
 
